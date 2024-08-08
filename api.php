@@ -9,6 +9,8 @@
     <pre>
         <?php
         echo "Hello, World!";
+
+        echo "Halo Dunia";
         ?>
     </pre>
 </body>
